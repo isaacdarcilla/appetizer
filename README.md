@@ -1,5 +1,11 @@
 ## Coding Challenge 🚀
 
+### Tech Stack
+
+* Laravel 8
+* Inertia JS
+* Bootstrap
+
 ### Installation
 
 * git clone https://github.com/isaacdarcilla/appetizer
