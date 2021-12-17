@@ -5,7 +5,7 @@
 * Laravel 8
 * Inertia JS
 * Vue 2
-* Bootstrap
+* Bootstrap 4
 
 ### Installation
 
